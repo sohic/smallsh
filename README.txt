@@ -1,6 +1,6 @@
 SMALLSH - Write your own shell in C
 
-smallsh will implement a subset of features of well-known shells, such as bash. Your program will
+smallsh will implement a subset of features of well-known shells, such as bash. This program will
 
     Provide a prompt for running commands
     Handle blank lines and comments, which are lines beginning with the # character
